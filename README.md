@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pasha! 👋
 
-<!--
-**pashasheikh01/pashasheikh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Illinois Chicago (UIC).
 
-Here are some ideas to get you started:
+Interested in Software Engineering
+Currently improving my programming skills and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for software engineering internship opportunities.
+
+## Technical Skills
+- **Languages:** Java, Python, C, C++, F#
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Maven
+- **Technologies:** JavaFX, FXML, JUnit
+
+## Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/pashasheikh01/
+- **Email:** pasha.sheikh01@gmail.com
