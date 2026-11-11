@@ -1,8 +1,7 @@
-# Hi, I'm Pasha! 👋
-
 Computer Science student at the University of Illinois Chicago (UIC).
 
 Interested in Software Engineering
+
 Currently improving my programming skills and learning new technologies.
 
 Looking for software engineering internship opportunities.
