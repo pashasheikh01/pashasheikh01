@@ -19,7 +19,7 @@ A JavaFX project that presents weather information on the graphical user interfa
 
 ### [Three Card Poker](https://github.com/pashasheikh01/three-card-poker)
 
-A JavaFX based Three card poker simulation project that includes dealing of cards, placing wagers, evaluating the player's hand, and presenting round results.
+A JavaFX based Three Card Poker simulation project that includes dealing of cards, placing wagers, evaluating the player's hand, and presenting round results.
 
 **Technical Skills:** Java, JavaFX, FXML, Maven, JUnit
 
