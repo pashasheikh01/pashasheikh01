@@ -13,7 +13,7 @@ Moreover, in addition to my courses outside of class, working at Cabinets and Co
 
 ### [Weather Information Service](https://github.com/pashasheikh01/weather-information-service)
 
-A JavaFX project that presents weather information on the graphical user interface (GUI). In this project you are going to use Java, and FXML to develop GUI and present weather data visualization.
+A Java command-line application using the Open-Meteo API that provides weather data. The application enables users to review, compare, and summarize weather data as well as implement software design patterns such as interfaces, dependency injection and separation of concerns.
 
 **Technical Skills:** Java, JavaFX, FXML, Maven
 
