@@ -13,15 +13,15 @@ Moreover, in addition to my courses outside of class, working at Cabinets and Co
 
 ### [Weather Information Service](https://github.com/pashasheikh01/weather-information-service)
 
-A JavaFX application that displays weather information through an interactive graphical user interface. The project focuses on weather data visualization, user interface development, and software design using Java and FXML.
+A JavaFX project that presents weather information on the graphical user interface (GUI). In this project you are going to use Java, and FXML to develop GUI and present weather data visualization.
 
-**Technologies:** Java, JavaFX, FXML, Maven
+**Technical Skills:** Java, JavaFX, FXML, Maven
 
 ### [Three Card Poker](https://github.com/pashasheikh01/three-card-poker)
 
-A JavaFX application that simulates Three Card Poker. The project includes card dealing, wager management, hand evaluation, and round results. It demonstrates object-oriented programming, graphical user interface design, and software testing.
+A JavaFX based Three card poker simulation project that includes dealing of cards, placing wagers, evaluating the player's hand, and presenting round results.
 
-**Technologies:** Java, JavaFX, FXML, Maven, JUnit
+**Technical Skills:** Java, JavaFX, FXML, Maven, JUnit
 
 ## Connect With Me
 
